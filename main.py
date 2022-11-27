@@ -1,8 +1,3 @@
-######################################################
-# Project: <Project 2>
-# UIN: <650266104>
-# repl.it URL: <https://replit.com/@huangwo2017/project2starter#main.py> 
-######################################################
 
 #import turtle module
 import turtle
